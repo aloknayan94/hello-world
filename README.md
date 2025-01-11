@@ -2,8 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
-# ng build --base-href "https://aloknayan94.github.io/hello-world/"
-# npx angular-cli-ghpages --dir=dist/hello-world/browser 
+## ng build --base-href "https://aloknayan94.github.io/hello-world/"
+## npx angular-cli-ghpages --dir=dist/hello-world/browser 
 
 ## Development server
 
